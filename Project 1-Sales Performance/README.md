@@ -18,7 +18,7 @@ This project analyzes sales performance using Power BI.
 
 ## Dashboard
 
-![Project 1-Sales Performance](Images/Superstore Dashboard -Syntecxhub.png)
+![Project%201-Sales%20Performance](Images/Superstore%20Dashboard%20-Syntecxhub.png)
 
 ## Insights
 
