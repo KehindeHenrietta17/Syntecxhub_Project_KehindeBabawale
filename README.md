@@ -1,35 +1,57 @@
 # Syntecxhub_Project_KehindeBabawale
 
-**Virtual Data Analytics Internship Portfolio**
+## Virtual Data Analytics Internship Portfolio
 
 This repository contains the projects I completed during my Virtual Data Analytics Internship at Syntecxhub.
 
-**Objectives**
+### Objectives
 
--Apply data analytics concepts to real-world datasets
+- Apply data analytics concepts to real-world datasets
 
--Strengthen skills in data cleaning and preprocessing
+- Strengthen skills in data cleaning and preprocessing
 
--Perform exploratory data analysis (EDA)
+- Perform exploratory data analysis (EDA)
 
--Build interactive dashboards and visualizations
+- Build interactive dashboards and visualizations
 
 -Generate actionable business insights
 
-**Tools & Technologies**
+### Tools & Technologies
 
--Microsoft Excel
+- Microsoft Excel
 
--SQL
+- SQL
 
--Power BI
+- Power BI
 
--Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib)
 
--Git & GitHub
+- Git & GitHub
 
-**Projects**
+### Projects
 
--Sales Performance Dashboard
+#### Project 1
 
--Student Performance Analysis
+**Sales Performance Dashboard**
+
+**Skills**
+
+- Power BI
+- Power Query
+
+**Folder:**
+
+Project-1-Sales-Performance
+
+### Project 2
+
+**Student Performance Analysis**
+
+**Skills**
+
+- Power BI
+- Power Query
+
+**Folder:**
+
+Project-2-Students-Performance
