@@ -55,3 +55,15 @@ Project-1-Sales-Performance
 **Folder:**
 
 Project-2-Students-Performance
+
+#### Week2_Project1
+**Customer Segmentation Using RFM Analysis**
+
+**Skills**
+
+- Power BI
+- Power Query
+
+**Folder:**
+
+Week2_Project1_RFM_Analysis
