@@ -31,7 +31,7 @@ This project was completed as part of the Syntecxhub Virtual Internship Program.
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 ### 1. Data Preparation
 
@@ -178,21 +178,22 @@ Based on the RFM analysis:
 
 ## Dashboard Preview
 
-![Customer RFM Analysis Dashboard](Images/RFM_Analysis_Dashboard.png)
+![Week2_Project1_RFM_Analysis](Images/RFM_Analysis_Dashboard.png)
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|-------------|
 | `Customer_RFM_Analysis.pbix` | Power BI dashboard and analysis |
 | `RFM_Analysis_Dashboard.png` | Dashboard preview |
-| `README.md` | Project documentation |
+| `AdventureWorksDW.XLSX` | Dataset |
+| `Week2_Project1_README.md` | Project documentation |
 
 ---
 
-## 🚀 Project Outcome
+## Project Outcome
 
 This project demonstrates the use of Power BI and DAX to transform customer transaction data into actionable customer segmentation insights.
 
@@ -200,7 +201,7 @@ The analysis can help businesses identify valuable customers, understand purchas
 
 ---
 
-## 👩🏽‍💻 Author
+## Author
 
 **Kehinde Henrietta Babawale**
 
