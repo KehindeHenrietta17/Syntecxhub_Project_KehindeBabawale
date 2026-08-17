@@ -166,7 +166,7 @@ Median purchase value:
 
 ### Funnel & Segment Analysis
 
-![Week3_Project%20%1_E-commerce_Funnel_Analysis](Images/Funnel&Segment_Analysis)
+![Week3_Project%20%1_E-commerce_Funnel_Analysis](Images/Funnel&Segment_Analysis.png)
 
 ---
 
